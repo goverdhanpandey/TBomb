@@ -65,7 +65,7 @@ To use the bomber type the following commands in Termux:
 ```shell script
 pkg install git -y 
 pkg install python -y 
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/goverdhanpandey/TBomb.git
 cd TBomb
 ./TBomb.sh
 ```
@@ -77,7 +77,7 @@ To use the application, type in the following commands in iSH.
 apk add git
 apk add python3
 apk add py3-pip
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/goverdhanpandey/TBomb.git
 cd TBomb
 pip3 install -r requirements.txt
 chmod +x TBomb.sh
@@ -89,7 +89,7 @@ chmod +x TBomb.sh
 To use the application, type in the following commands in GNU/Linux terminal.
 ```shell script
 sudo apt install git
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/goverdhanpandey/TBomb.git
 cd TBomb
 bash TBomb.sh
 ```
@@ -111,7 +111,7 @@ brew install git
 brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/goverdhanpandey/TBomb.git
 cd TBomb
 ```
 
@@ -130,19 +130,7 @@ The package `toilet` cannot be installed yet. But TBomb does still work.
 - Watch Indian Bombing Method [here](https://youtu.be/9KWkwsr_QGw)  
 - Watch International Bombing Method [here](https://youtu.be/JqsHkyIcnPM).  
 
-## Contributors
 
-- Catch **[t0xic0der](https://github.com/t0xic0der)** at https://atlasdoc.netlify.app
-- Check **[Avinash](https://github.com/AvinashReddy3108)** at https://github.com/AvinashReddy3108
-- Mail **[scpketer](https://github.com/scpketer)** at scpketer@protonmail.ch
-- Mail **[Stefan](https://github.com/0n1cOn3)** at 0n1cOn3@gmx.ch
-- Ping **Rieltar** at https://t.me/RieltarReborn
-
-
-## Donators:
-
-- **[34D30Y](34db0y@protonmail.com)**
-- **SC AMAN**
 
 ## TODO:
 
@@ -157,5 +145,5 @@ The package `toilet` cannot be installed yet. But TBomb does still work.
 ## Contact me  
 
 For Queries: [Telegram Group](https://t.me/TBombChat)  
-[Check Out My YouTube Channel](https://www.youtube.com/c/SpeedXTech)
+[Check Out My YouTube 
 
